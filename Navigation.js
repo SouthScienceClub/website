@@ -9,6 +9,7 @@ document.write('<div class="navbar-fixed">' +
    '<li class = "navlinks active"><a href="science-olympiad.html">Science Olympiad</a></li>' +
    '<li class = "navlinks"><a href="ocean-bowl.html">Ocean Bowl</a></li>' +
  '<li class = "navlinks"><a href="past-successes.html">Past Successes</a></li>' +
+ '<li class = "navlinks"><a href="gallery.html">Photo Gallery</a></li>' +
      '</ul>' +
  '</nav>' +
   '</div>' +
@@ -20,4 +21,5 @@ document.write('<div class="navbar-fixed">' +
    '<li class = "navlinks active"><a href="science-olympiad.html">Science Olympiad</a></li>' +
    '<li class = "navlinks"><a href="ocean-bowl.html">Ocean Bowl</a></li>' +
  '<li class = "navlinks"><a href="past-successes.html">Past Successes</a></li>' +
+ '<li class = "navlinks"><a href="gallery.html">Photo Gallery</a></li>' +
      '</ul>');
