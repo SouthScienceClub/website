@@ -14,7 +14,7 @@ document.write('<div class="navbar-fixed">' +
   '</div>' +
  '<ul id="nav-mobile" class="side-nav">' +
    '<br>' +
-          '<li class = "navlinks"><a href="index.html">Home</a></li>' 
+          '<li class = "navlinks"><a href="index.html">Home</a></li>' +
           '<li class = "navlinks"><a href="about-us.html" class >About Us</a></li>' +
        '<li class = "navlinks"><a href="science-bowl.html">Science Bowl</a></li>' +
    '<li class = "navlinks active"><a href="science-olympiad.html">Science Olympiad</a></li>' +
