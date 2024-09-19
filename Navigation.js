@@ -6,7 +6,7 @@ document.write('<div class="navbar-fixed">' +
    '<li class = "navlinks"><a href="index.html">Home</a></li>' +
        '<li class = "navlinks"><a href="about-us.html" class >About Us</a></li>' +
        '<li class = "navlinks"><a href="science-bowl.html">Science Bowl</a></li>' +
-   '<li class = "navlinks active"><a href="science-olympiad.html">Science Olympiad</a></li>' +
+   '<li class = "navlinks"><a href="science-olympiad.html">Science Olympiad</a></li>' +
    '<li class = "navlinks"><a href="ocean-bowl.html">Ocean Bowl</a></li>' +
  '<li class = "navlinks"><a href="past-successes.html">Past Successes</a></li>' +
  '<li class = "navlinks"><a href="gallery.html">Photo Gallery</a></li>' +
@@ -19,7 +19,7 @@ document.write('<div class="navbar-fixed">' +
           '<li class = "navlinks"><a href="index.html">Home</a></li>' +
           '<li class = "navlinks"><a href="about-us.html" class >About Us</a></li>' +
        '<li class = "navlinks"><a href="science-bowl.html">Science Bowl</a></li>' +
-   '<li class = "navlinks active"><a href="science-olympiad.html">Science Olympiad</a></li>' +
+   '<li class = "navlinks"><a href="science-olympiad.html">Science Olympiad</a></li>' +
    '<li class = "navlinks"><a href="ocean-bowl.html">Ocean Bowl</a></li>' +
  '<li class = "navlinks"><a href="past-successes.html">Past Successes</a></li>' +
  '<li class = "navlinks"><a href="gallery.html">Photo Gallery</a></li>' +
